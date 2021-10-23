@@ -1,16 +1,16 @@
 /*
 
-	s10
+    s10
   s	s
   2	0
   0	0
-	s11
+    s11
   s	s
   2	0
   1	1
-	s12	*s02
+    s12	   * s02
    
-	\/s22
+    \/s22
   
 */
 
@@ -131,14 +131,6 @@ module lcd24x3
 		.data_out(segin)
 	);
 
-
-
-
-
-
-	
- 
- 
  
 endmodule
 
